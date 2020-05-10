@@ -1,1 +1,2 @@
-Este es mi archivo de texto creado desde el terminal de Hyper
+Este es mi archivo de texto creado desde el terminal de Hyper 
+configurado con MyZSH con WLS
