@@ -2,3 +2,5 @@ Este es mi archivo de texto creado desde el terminal de Hyper
 
 
 Mañana nos enfocaremos en su vida laboral
+
+Esta linea es agregada como un repaso de lo visto en el curso de git
