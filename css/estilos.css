@@ -1,4 +1,5 @@
 body {
+    background: #1e1f24;
     color: #333;
     text-align: left;
     font-family: ar;
@@ -7,6 +8,11 @@ body {
     padding: 0;
 }
 
+
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
+}
 
 #cabecera {
     background: #33A;
@@ -36,5 +42,6 @@ body {
 }
 
 #post {
+    background: white;
     padding: 1em;
 }
