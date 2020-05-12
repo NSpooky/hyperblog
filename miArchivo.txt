@@ -1,4 +1,4 @@
-Este es mi archivo de texto creado desde el terminal de Hyper 
-configurado con MyZSH con WLS
+Este es mi archivo de texto creado desde el terminal de Hyper
 
-Hoy hablaremos de mi vida y mi obra.
+
+Mañana nos enfocaremos en su vida laboral
